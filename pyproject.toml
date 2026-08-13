@@ -29,7 +29,7 @@ dev = [
     "ruff==0.16.1",
     "pytest>=8.2",
     "pytest-cov>=6.0",
-    "ty>=0.0.1",
+    "ty>=0.0.69",
     "codespell>=2.3",
     "commitizen>=4.17",
 ]
